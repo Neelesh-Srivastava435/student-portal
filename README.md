@@ -68,3 +68,7 @@ The program starts by loading the core engine and displaying the main menu.
 - Keep commits descriptive.
 - Review changes before merging.
 - Test modifications before release.
+
+## Accessibility
+
+Accessibility improvements are currently under development.
