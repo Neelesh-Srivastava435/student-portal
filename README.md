@@ -15,6 +15,10 @@ The application focuses on:
 - Dashboard management
 - User settings
 
+### Modernization Notes
+
+The portal architecture is being modularized to improve maintainability.
+
 ## Setup
 
 Clone the repository:
