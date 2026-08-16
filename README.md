@@ -43,3 +43,11 @@ student-portal
 ├── scripts
 └── tests
 ```
+
+## Build
+
+Compile the project:
+
+```bash
+g++ engine/*.cpp features/**/*.cpp -o portal
+```
