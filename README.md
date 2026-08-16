@@ -61,3 +61,10 @@ Run the application:
 ```
 
 The program starts by loading the core engine and displaying the main menu.
+
+## Contribution Guidelines
+
+- Create feature branches for new work.
+- Keep commits descriptive.
+- Review changes before merging.
+- Test modifications before release.
