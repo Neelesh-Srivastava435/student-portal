@@ -51,3 +51,13 @@ Compile the project:
 ```bash
 g++ engine/*.cpp features/**/*.cpp -o portal
 ```
+
+## Execution
+
+Run the application:
+
+```bash
+./portal
+```
+
+The program starts by loading the core engine and displaying the main menu.
