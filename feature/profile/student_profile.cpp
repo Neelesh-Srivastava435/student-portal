@@ -1,5 +1,8 @@
+#include <iostream>
+
 #include "student_profile.h"
 
-void view_student() {
-    std::cout << "Student created successfully.\n";
+void displayProfile(const StudentProfile& student) {
+    std::cout << "Student: " << student.name << '\n';
+    std::cout << "Semester: " << student.semester << '\n';
 }
