@@ -20,11 +20,26 @@ The application focuses on:
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Neelesh-Srivastava435/student-portal.git
 ```
 
 Move into the project directory:
 
 ```bash
 cd student-portal
+```
+
+
+## Repository Structure
+
+```text
+student-portal
+├── app
+├── engine
+├── features
+├── include
+├── data
+├── docs
+├── scripts
+└── tests
 ```
