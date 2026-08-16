@@ -14,3 +14,17 @@ The application focuses on:
 - Student profiles
 - Dashboard management
 - User settings
+
+## Setup
+
+Clone the repository:
+
+```bash
+git clone <repository-url>
+```
+
+Move into the project directory:
+
+```bash
+cd student-portal
+```
