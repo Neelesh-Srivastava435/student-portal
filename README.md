@@ -15,6 +15,10 @@ The application focuses on:
 - Dashboard management
 - User settings
 
+### Legacy Migration Notes
+
+The portal is being migrated from a monolithic architecture.
+
 ## Setup
 
 Clone the repository:
