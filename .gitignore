@@ -1,0 +1,19 @@
+# Build artifacts
+*.exe
+*.out
+*.o
+*.obj
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Operating system files
+Thumbs.db
+.DS_Store
